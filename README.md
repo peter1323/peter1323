@@ -96,6 +96,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/peter1323/peter1323/main/github-user-contribution.svg" alt="Snake animation" />
+# <img src="https://raw.githubusercontent.com/peter1323/peter1323/main/github-user-contribution.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
