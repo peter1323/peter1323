@@ -96,6 +96,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/peter1323/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/peter1323/snk/output/github-user-contribution.svg" alt="Snake animation" />
 
 ###
