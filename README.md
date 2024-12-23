@@ -93,13 +93,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peter1323&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=peter1323&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-    outputs: 
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 ###
 
-
+<img src="https://raw.githubusercontent.com/Peter1323/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
